@@ -1,3 +1,2 @@
 # SQL_codeprac
-dd
-dd
+kk
