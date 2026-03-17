@@ -79,6 +79,6 @@
 <ul>
 <li><code>num1</code>이 1, <code>num2</code>가 16이므로 1 / 16 = 0.0625에 1,000을 곱하면 62.5가 되며, 정수 부분은 62입니다.</li>
 </ul>
-
+dd
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
