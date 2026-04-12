@@ -1,5 +1,5 @@
 # [level 5] 멸종위기의 대장균 찾기 - 301651 
-
+.
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/301651) 
 
 ### 성능 요약
